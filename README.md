@@ -1,6 +1,6 @@
-#Web Infrastructure Design
+# Web Infrastructure Design
 
-##Learning Objectives
+## Learning Objectives
 - Network Basics
 - Server
 - Web Server
@@ -22,7 +22,7 @@
 - Explain system redundancy
 - Know all the mentioned acronyms: LAMP, SPOF, QPS
 
-##Projects
+## Projects
 ### 0. Simple web stack
 On a whiteboard, design a one server web infrastructure that hosts the website that is reachable via www.foobar.com. Start your explanation by having a user wanting to access your website.
 
